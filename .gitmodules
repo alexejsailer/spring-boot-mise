@@ -1,0 +1,3 @@
+[submodule "git-state"]
+	path = git-state
+	url = https://github.com/alexejsailer/git-state.git
